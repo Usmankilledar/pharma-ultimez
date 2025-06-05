@@ -1,0 +1,15 @@
+# Ignore environment files (e.g., .env with passwords)
+.env
+
+# Ignore dependency folders
+/vendor/
+
+# Ignore log files
+*.log
+
+# Ignore system files (e.g., .DS_Store on macOS)
+.DS_Store
+
+# Ignore local XAMPP/development files
+/htdocs/
+/tmp/
